@@ -1,0 +1,118 @@
+body{
+    background-color:blueviolet;
+
+
+.caja1{
+   height: 70px;
+   width: 12%;
+   border-color: aqua;
+   border-width: 5px;
+   border-style: solid;
+   justify-content: center;
+   position:absolute;
+   left: 0;
+   top: 0;
+   align-items: center;
+  
+ }
+.caja2{
+  height: 695px;
+  width: 100%;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 75px;
+  align-items: center;
+  
+ 
+}
+.caja3{
+  width: 20%;
+  height: 200px;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  top: 775px;
+  right: 0%;
+  text-align-last: center;
+  align-items: center;
+}
+.caja4{
+ height: 200px;
+ width: 20%;
+ border-color: aqua;
+ border-width: 5px;
+ border-style: solid;
+ justify-content: center;
+ position: absolute;
+ top: 775px;
+ right: 20%;
+ align-items: center;
+}
+.caja5{
+  width: 20%;
+  height: 200px;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+ top: 775px;
+ right: 40%;
+ align-items: center;
+
+}
+.caja6{
+ height: 200px;
+ width: 20%;
+ border-color: aqua;
+ border-width: 5px;
+ border-style: solid;
+ justify-content: center;
+ position: absolute;
+ top: 775px;
+ right: 60%;
+ align-items: center;
+}
+.caja7{
+  height: 200px;
+  width: 20%;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+  top: 775px;
+  right: 80%;
+  align-items: center ;
+ }
+ .caja8{
+  height: 70px;
+  width: 87%;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
+ }
+ .caja9{
+  height: 560px;
+  width: 100%;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  justify-content: center;
+  position: absolute;
+  top: 980px;
+  right: 0;
+
+ }
